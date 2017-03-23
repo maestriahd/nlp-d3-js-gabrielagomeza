@@ -41,3 +41,5 @@ La actividad a realizar durante esta semana es la creación de una visualizació
 * [Compromise. Recomiendo ver los ejemplos en el sitio web](https://github.com/nlp-compromise/compromise)
 * [Librería para la creación de SVG desde JS](https://d3js.org/ )
 * [Tutorial de d3 en Lynda](https://www.lynda.com/D3-js-tutorials/D3-js-Essential-Training-Data-Scientists/504428-2.html)
+
+ 
